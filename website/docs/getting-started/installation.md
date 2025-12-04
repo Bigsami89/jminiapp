@@ -42,7 +42,7 @@ After building from source, add JMiniApp as a dependency in your project's `pom.
 <dependency>
     <groupId>com.jminiapp</groupId>
     <artifactId>jminiapp-core</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
