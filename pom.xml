@@ -16,7 +16,6 @@
     <modules>
         <module>modules/core</module>
         <module>examples/counter</module>
-        <module>examples/todo</module>
     </modules>
 
     <properties>
